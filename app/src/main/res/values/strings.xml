@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StepEducation182</string>
+    <string name="button_text">Press me!</string>
+    <string name="button_click">I am pressed!</string>
+</resources>
